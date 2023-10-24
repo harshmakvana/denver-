@@ -1,4 +1,4 @@
 # denver
 This is my first Git repository
 <br>
-Author- Harsh Makvana 
+Author- Harsh Makvana(student)
